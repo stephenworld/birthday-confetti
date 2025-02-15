@@ -224,6 +224,9 @@ body {
   cursor: pointer;
 }
 
+#vittorio{
+  font-size: 3rem
+}
 /* Media Queries */
 
 @media screen and (max-width: 500px) {
