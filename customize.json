@@ -1,11 +1,11 @@
 {
 "greeting": "Hey",
-"name": "Peniel",
-"greetingText": "March 4th is a special day BECAUSE...",
+"name": "Daniel",
+"greetingText": "March 8th is a special day BECAUSE...",
 "wishText": "Stephen wish you well! ;)",
 "imagePath": "img/twin.jpg",
 "text1": "It's your birthday!!! :D",
-"textInChatBox": "Happy Birthday Peniel!! Yeeen Yeeen Yeen! Many many happy blah...",
+"textInChatBox": "Happy Birthday Daniel!! Yeeen Yeeen Yeen! Many many happy blah...",
 "sendButtonLabel": "Send",
 "text2": "That's what I was going to do.",
 "text3": "But then I stopped.",
@@ -17,7 +17,7 @@
 "bigTextPart1": "S",
 "bigTextPart2": "O",
 "wishHeading": "Happy Birthday!",
-"outroText": "Happy Birthday Peniel",
+"outroText": "Happy Birthday Daniel",
 "replayText": "click, if you want to watch it again.",
 "outroSmiley": ":)"
 }
