@@ -1,11 +1,11 @@
 {
 "greeting": "Hi",
-"name": "Innovator",
-"greetingText": "April 4th is a special day BECAUSE...",
+"name": "Kenechi",
+"greetingText": "September 19 is a special day BECAUSE...",
 "wishText": "Stephen wish you well! ;)",
 "imagePath": "img/twin.jpg",
 "text1": "It's your birthday!!! :D",
-"textInChatBox": "Happy Birthday Innovator!! Yeeen Yeeen Yeen! Many many happy blah...",
+"textInChatBox": "Happy Birthday Kenechi!! Yeeen Yeeen Yeen! Many many happy blah...",
 "sendButtonLabel": "Send",
 "text2": "That's what I was going to do.",
 "text3": "But then I stopped.",
@@ -17,7 +17,7 @@
 "bigTextPart1": "S",
 "bigTextPart2": "O",
 "wishHeading": "Happy Birthday!",
-"outroText": "Happy Birthday Innovator",
+"outroText": "Happy Birthday Kenechi",
 "replayText": "click, if you want to watch it again.",
 "outroSmiley": ":)"
 }
